@@ -1,4 +1,4 @@
-# Chess APP
+# Chess Application
 This is a functional and interactive chess application with basic chess logic implemented, written in Java. It can be easily modified to be an android app. It also has two newly created and implemented chess piece.<br>
 
 ### Usage
